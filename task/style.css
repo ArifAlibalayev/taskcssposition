@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+}
+
+.card {
+    position: relative;
+    width: 600px;
+    height: 580px;
+    border: 1px solid rgb(137, 135, 135);
+    margin: 50px;
+    background-color: rgb(39, 36, 36);
+    display: inline-block;
+}
+
+.date {
+    background-color: rgba(9, 67, 212, 0.5);
+    position: absolute;
+    bottom: 95px;
+    padding: 8px;
+}
+
+.news {
+    position: absolute;
+    margin: 8px;
+}
